@@ -32,7 +32,7 @@ I'm Maksym Rudnyi a Senior Software Engineer with more than 10 years of experien
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="DEMA GitHub stats" src="https://github-readme-stats.vercel.app/api?username=stebnyk3806&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
 </div>
 
